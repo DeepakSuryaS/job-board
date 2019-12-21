@@ -1,0 +1,23 @@
+{
+  "name": "jdev-job-board",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DeepakSuryaS/job-board.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DeepakSuryaS/job-board/issues"
+  },
+  "homepage": "https://github.com/DeepakSuryaS/job-board#readme",
+  "dependencies": {
+    "cron": "^1.7.2"
+  }
+}
